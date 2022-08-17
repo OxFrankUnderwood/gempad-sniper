@@ -1,4 +1,4 @@
-# gempad-sniper
+# Gempad Sniper bot for Presales
 
 Super fast gempad presale bot, confirm contribution on first/second block easily. **Using private BSC node is recommended**
 
